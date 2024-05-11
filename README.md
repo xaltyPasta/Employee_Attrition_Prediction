@@ -5,7 +5,7 @@ Employee Attrition Prediction Model
 
 
 #Loading the Dataset 
-Export the dataset into your destination and copy the path and paste it into
+#Export the dataset into your destination and copy the path and paste it into
 
 df = pd.read_csv("//your path")
 
